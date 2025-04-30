@@ -1,6 +1,6 @@
 # Projeto Mundo de Wumpus
 
-Este repositório contém a implementação da Etapa 1 do Projeto de Desenvolvimento de jogo para a dicplina de Inteligência Artificial, que consiste na geração de ambientes aleatórios para o jogo Mundo de Wumpus.
+Este repositório contém a implementação da Etapa 1 do Projeto de Desenvolvimento do jogo Mundo de Wumpus para a dicplina de Inteligência Artificial, que consiste na geração de ambientes aleatórios com interação do usuário.
 
 ## Etapa 1 - Geração do Ambiente
 
