@@ -15,7 +15,7 @@ class Agente:
         elif direcao == "direita" and y < 3:
             self.pos[1] += 1
         else:
-            print("Movimento inválido!")
+            print("Movimento inválido - Escolha uma ação novamente!")
 
     def pegar_ouro(self, mundo):
         x, y = self.pos
